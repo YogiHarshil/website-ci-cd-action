@@ -4,7 +4,7 @@ This project uses Terraform to provision AWS infrastructure for deploying a stat
 
 ## 📌 Project Overview
 
-This repository allows you to:
+This repository allows you to
 
 - Host static websites using AWS S3
 - Securely distribute your content globally via AWS CloudFront
